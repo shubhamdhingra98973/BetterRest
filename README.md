@@ -1,4 +1,4 @@
-# Roulette Wheel
+# Better Rest
 <b>Connect SwiftUI with core ML Technologies - Short Demo application which helps to find the ideal bed time on the basis of listed features<br>
 <br>
 <br>
